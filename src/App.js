@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import 'react-app-polyfill/ie9';
 import logo from './logo.svg';
 import './App.css';
 
